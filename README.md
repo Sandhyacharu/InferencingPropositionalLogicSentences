@@ -106,6 +106,7 @@ Mid of the game:
 ![image](https://user-images.githubusercontent.com/75235167/175783966-57a1631b-06b0-49ee-86dd-102931ed1a61.png)
 
 End of the game:
+
 ![WhatsApp Image 2022-06-25 at 10 47 59 PM](https://user-images.githubusercontent.com/75235167/175784044-79251efd-5e45-45d9-8336-d1975f5423e0.jpeg)
 
 ## RESULT
