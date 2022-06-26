@@ -1,7 +1,8 @@
-# Inferencing Propositional Logic Sentences
+### EX NO: 07
+### DATE:
+# <p align="center">Inferencing Propositional Logic Sentences</p>
 
 ## AIM
-
 To develop python code to inference propositional logic sentences to solve Wumpus World problem.
 
 ## THEORY
@@ -31,6 +32,9 @@ Using wumpus_kb.ask_if_true() to get the result based on TRUE value.
 
 ## PROGRAM
 ```python3
+Developed by   : N Sandhya Charu
+Register Number :  212220230041
+
 from utils import *
 from logic import *
 char=['P','B','W','S']
